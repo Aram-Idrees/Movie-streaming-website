@@ -5,5 +5,5 @@
 <p>https://phoenixmovies12.000webhostapp.com/</p>
 <h3>If you want admin account to test it please contact me</h3>
 <p align="left">
-<a href="https://instagram.com/aram_i_rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aram_i_rashid" height="30" width="40" /></a>
+<a href="https://instagram.com/aram_i_rashed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aram_i_rashid" height="30" width="40" /></a>
 </p>
