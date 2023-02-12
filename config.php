@@ -1,7 +1,7 @@
 
 <?php 
 
-$db = mysqli_connect('localhost', 'root','','phoenix_movies');
+$db = mysqli_connect('localhost', 'root','','');
 if(!$db){
     echo mysqli_connect_error($db);
 }
